@@ -1,0 +1,49 @@
+# Flutter-specific ignores
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+build/
+ios/Podfile.lock
+android/.gradle
+android/build
+android/app/build
+android/.idea
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter-tool.xcframework
+ios/Runner.xcworkspace
+*.mode1v3
+*.mode2v3
+*.scc
+*.xcscheme
+*.xcuserstate
+**/xcuserdata/*
+.DS_Store
+
+# General ignores
+.idea/
+.vscode/
+*.iml
+*.log
+tmp/
+temp/
+xcuserdata/
+
+# Packages
+packages/*/build
+
+# Generated files
+**/generated_plugin_registrant.dart
+
+# Crash reports
+crashlytics/
+
+# Android Studio specific (if applicable)
+.aswb/
+
+# IntelliJ IDEA specific (if applicable)
+out/
+
+# macOS specific
+.fvm/flutter_sdk
