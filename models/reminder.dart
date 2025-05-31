@@ -1,4 +1,4 @@
-// lib/models/reminder.dart
+//models/reminder.dart
 class Reminder {
   int? id;
   String title;
