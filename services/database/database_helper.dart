@@ -1,4 +1,4 @@
-// lib/services/database/database_helper.dart
+//services/database/database_helper.dart
 import 'package:sqflite/sqflite.dart';
 import 'package:path/path.dart';
 import 'package:echo_remind/models/reminder.dart';
